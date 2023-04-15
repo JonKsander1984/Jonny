@@ -1,7 +1,8 @@
 # Jonny hi evrebody people
 # My first blog
-# <im![Alania underground passage](https://user-images.githubusercontent.com/124875023/232206743-a25fc5c2-0235-46ba-9014-f8e026ad4534.jpg)
-hi 
+# <img> <jonny![Alania underground passage](https://user-images.githubusercontent.com/124875023/232206883-cf8e4625-960c-4c5c-8515-66fcfee90870.jpg)
+/jpg> 
+ 
 
 g> 
 # Contacts
